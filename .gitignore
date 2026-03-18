@@ -2,9 +2,6 @@
 models/*.pkl
 models/*.joblib
 
-# Ignore datasets
-data/*.csv
-data/*.xlsx
 
 # Ignore Python cache
 __pycache__/
