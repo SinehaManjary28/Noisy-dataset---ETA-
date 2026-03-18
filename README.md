@@ -11,10 +11,10 @@ Modern logistics systems require accurate delivery predictions to improve custom
 
 This project builds a **two-model ML pipeline**:
 
-1️⃣ **Delay Classification Model**
+1️) **Delay Classification Model**
 Predicts whether a delivery will be delayed.
 
-2️⃣ **ETA Regression Model**
+2️) **ETA Regression Model**
 Predicts the expected delivery time in hours.
 
 The system integrates:
@@ -128,10 +128,6 @@ ETA-delay-prediction/
 
 ---
 
-# 🖥 Streamlit Dashboard
-
-The project includes an interactive dashboard where users can input delivery details and obtain predictions.
-
 ### Features
 
 * Delivery ETA prediction
@@ -147,7 +143,7 @@ streamlit run src/app.py
 
 ---
 
-# 📦 Installation
+# Installation
 
 Clone the repository:
 
