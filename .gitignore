@@ -1,0 +1,18 @@
+# Ignore trained ML models
+models/*.pkl
+models/*.joblib
+
+# Ignore datasets
+data/*.csv
+data/*.xlsx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# virtual environments
+venv/
+.env/
